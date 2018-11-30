@@ -27,4 +27,4 @@ These are the tasks that you've to complete :
 **Optional Views** (It'll be impressive if you include these)<br>
 
 `My Medicines` (Medicines created by current user)<br>
-`My Profile`<br>
+`My Profile` (Details about logged in user)<br>
