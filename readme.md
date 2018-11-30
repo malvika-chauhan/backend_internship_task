@@ -1,6 +1,6 @@
 ## Laravel Task
 
-Here is a small laravel task for you so that we can test your Laravel Skills.
+Here is a small laravel task for you so that we can test your Laravel Skills. Refer to [Contribution Guide](https://github.com/zomeds/backend_internship_task/blob/master/Documentation/contributing.md) for understanding how to install this task.
 
 **Task Description**
 You've been provided with a _Laravel_ 5.1 installation. You've to contribute your code to this repo only.
