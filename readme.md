@@ -1,9 +1,9 @@
 ## Laravel Task
 
-Here is a small laravel task for you so that we can test your Laravel Skills. Refer to [Contribution Guide](https://github.com/zomeds/backend_internship_task/blob/master/Documentation/contributing.md) for understanding how to install this task.
+Here is a small task for you so that we can test your Laravel Skills. Refer to [Contribution Guide](https://github.com/zomeds/backend_internship_task/blob/master/Documentation/contributing.md) for understanding how to install this task.
 
 **Task Description**
-You've been provided with a _Laravel_ 5.1 installation. You've to contribute your code to this repo only.
+You've been provided with a Laravel 5.1 installation. You've to contribute your code to this repo only.
 These are the tasks that you've to complete : 
 - User Module<br>
   Laravel comes with out of the box User model and corresponding migrations. You've to make some changes to that so that a user can register, login into the application. Here are some extra features that you've to include in your User Module :
